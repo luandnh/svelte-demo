@@ -110,7 +110,7 @@
 						<div class="block-content">
 							<div class="p-sm-3 px-lg-4">
 								<h1 class="h2 mb-1 d-flex justify-content-center">
-									<Image alt="Logo" src="/media/logo/pitel-logo.png" style="height: 80px" />
+									<Image alt="Logo" src="/media/logo/logo.png" style="height: 80px" />
 								</h1>
 								<Form id="login-form" on:submit={handleSubmit}>
 									<div class="py-3">
